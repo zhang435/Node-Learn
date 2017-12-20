@@ -26,4 +26,5 @@ AsynAdd(1,5)
 },)
 .catch((error) =>{
     console.log(error)
+    
 })
