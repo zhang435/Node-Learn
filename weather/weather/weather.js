@@ -1,6 +1,6 @@
 // all the weather stuff coems from here
 // https://darksky.net/dev/docs
-var reqest = require("request");
+var request = require("request");
 var APIKEY = "c329456af7f7b253ec79c11d97d8e1ef";
 
 
